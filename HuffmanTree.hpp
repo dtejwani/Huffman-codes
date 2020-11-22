@@ -1,4 +1,4 @@
-//This file has been created by Dev TEJWANI
+//This file has been created by Dev Tejwani
 #ifndef HUFFMANTREE_H
 #define HUFFMANTREE_H
 
